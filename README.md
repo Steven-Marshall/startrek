@@ -326,3 +326,15 @@ python tools/autoplay.py 300
       their instruments, opt-in cadet mode, modest animation
 - [x] **Beginner aids** — command bar, prompt hints, compass round the ship
 - [ ] Sprites, second pass
+
+---
+
+## Licence
+
+This port — the Python code, tests, tools, sprites and documents — is under
+the [MIT licence](LICENSE).
+
+The game itself is Mike Mayfield's, Bob Leedom's and John Gorders' work, from
+the listing published in David Ahl's *BASIC Computer Games* (1978). That
+listing isn't included here; see [docs/HISTORY.md](docs/HISTORY.md) for where
+to find it.
