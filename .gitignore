@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Default outputs of tools/screenshot.py and tools/sprite_sheet.py
+/screenshot.png
+/sprites.png
